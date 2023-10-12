@@ -538,7 +538,10 @@ footer {
 .convi-image {
     float: left;
 }
-
+.load-image{
+    float:left;
+    margin-top: 30px;
+}
 .foro-nasa-image {
     float: left;
 }
